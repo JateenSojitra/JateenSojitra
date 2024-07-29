@@ -1,10 +1,3 @@
-## Hi there 👋
-
-<!--
-**JateenSojitra/JateenSojitra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 # 💫 About Me:
  Hi there!<br> I'm Jatin a seasoned web developer passionate about crafting interactive and seamless user experiences.<br> I have experience in front-end development with a strong focus on React.js. My expertise extends to crafting reusable components, optimizing performance, and ensuring the scalability of web applications.<br> I want to connect engineers who are interested in Front End Technology 
 
